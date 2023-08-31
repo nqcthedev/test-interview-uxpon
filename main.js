@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Import the Intersection Observer polyfill
 import 'intersection-observer';
 
